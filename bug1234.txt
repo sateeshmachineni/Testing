@@ -1,1 +1,2 @@
-fixes bug1234
+fixes bug1235
+
