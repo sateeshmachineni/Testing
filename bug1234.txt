@@ -1,1 +1,2 @@
+Fixing Header issue
 Fixing Footer issues
